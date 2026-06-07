@@ -32,15 +32,14 @@ ALL-in-ONE Store is a no-code e-commerce website created using Wix. The website 
 
 ### Homepage
 
-![Homepage](images/homepage.png)
-
+![Homepage](images/home%20page.png)
 ### Product Page
 
-![Product Page](images/productpage.png)
+![Product Page](images/product%20page.png)
 
 ### Contact Page
 
-![Contact Page](images/contactpage.png)
+![Contact Page](images/contact%20page.png)
 
 ## Challenges Faced
 

@@ -58,7 +58,7 @@ ALL-in-ONE Store is a no-code e-commerce website created using Wix. The website 
 
 ## Live Website Link
 
-Paste your Wix website link here
+(https://mmr42028.wixsite.com/all-in-one)
 
 ## GitHub Repository Link
 

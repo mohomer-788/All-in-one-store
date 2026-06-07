@@ -62,7 +62,7 @@ ALL-in-ONE Store is a no-code e-commerce website created using Wix. The website 
 
 ## GitHub Repository Link
 
-Paste your GitHub repository link here
+(https://github.com/mohomer-788/All-in-one-store)
 
 ## Conclusion
 
